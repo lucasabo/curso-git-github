@@ -1,1 +1,2 @@
 novo arquivo 01 com infos
+nova linha sobre esse projeto bem interessante, aprendendo muito sobre git.
